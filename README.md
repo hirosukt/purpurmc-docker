@@ -18,5 +18,4 @@ services:
       - "/srv/purpur/:/purpurmc"
     ports:
       - "25565:25565"
-
 ```
